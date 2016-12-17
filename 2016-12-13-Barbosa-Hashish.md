@@ -3,7 +3,7 @@ layout: page
 subheadline: "Brayan Barbosa"
 title: "The Result of hashish"
 teaser: "What goes on in someone's mind after tasting some hashish paste"
-date: 2016-12-13
+date: 1905-07-27
 categories:
   - curiosities
 author: BrayanBarbosa
@@ -12,9 +12,9 @@ tags:
   - drugs
 header: no
 image: <!--- for image-name.png, substitute name you've given your image file --->
-  title: blog-images/roof-lamp.jpeg
-  thumb: blog-images/roof-lamp.jpeg
-  homepage: blog-images/roof-lamp.jpeg
+  title: blog-images/article.png
+  thumb: blog-images/article.png
+  homepage: blog-images/article.png
   caption:
   caption_url: http://johnlewis.scene7.com/is/image/JohnLewis/234652312?$prod_lrg$
 ---
